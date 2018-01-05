@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int main() {
+	char b;
+	cin >> b;
+	
+	if (tolower(b)=b) cout << b << endl;
+	else (toupper(b)=b) cout << b << endl;
+		
+
+		
+	
+ 
+ 
+}
